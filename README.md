@@ -8,4 +8,4 @@ This is for Data 150
 
 ## Link Test
 
-[Responses](Readings.md)
+[Responses](pages/rHome.md)

@@ -8,4 +8,4 @@ This is for Data 150
 
 ## Link Test
 
-[Responses](DATA-15/Readings.md)
+[Responses](Readings.md)

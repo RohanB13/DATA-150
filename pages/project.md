@@ -2,4 +2,4 @@
 
 Perfect score
 
-[Home](https://bryanhuffman.github.io/DATA-150)
+[Home](https://bryanhuffman.github.io/DATA-150/)

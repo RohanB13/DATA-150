@@ -1,11 +1,13 @@
-# Bryan Huffman
+# Bio
 
-This is for Data 150
+### Am person.
 
-## Photo Test
-
-![](soe-terrace-twilight.jpg)
-
-## Link Test
+## Respones
 
 [Responses](pages/rHome.md)
+
+## Project
+
+[Final](pages/project.md)
+
+
